@@ -1,0 +1,11 @@
+{
+  "name": "ghost-aliyun-oss-store",
+  "version": "1.0.0",
+  "description": "Ghost v3 Aliyun OSS Storage Support.",
+  "author": "soulteary<soulteary@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "ali-oss": "^6.5.1"
+  }
+}
